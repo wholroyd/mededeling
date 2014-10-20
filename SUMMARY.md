@@ -1,0 +1,22 @@
+# Summary
+
+* [Preface](README.md)
+* [Introduction](introduction/README.md)
+* [Root Cause](root_cause/README.md)
+   * [Fragility](root_cause/fragility.md)
+   * [Risk](root_cause/risk)
+   * [Environments](root_cause/environments)
+   * [Silos](root_cause/silos)
+   * [Communication](root_cause/communication)
+* [History](history/README.md)
+   * [Gene Kim](history/scope.md)
+   * [Patrick Debois](history/patrick_debois)
+   * [Dan Pritchett](history/dan_pritchett)
+* [Concepts](concepts/README.md)
+   * [What it is not](concepts/what_it_is_not)
+   * [What is it really?](concepts/what_is_it_really)
+   * [Scope](concepts/scope)
+   * [Advantages](concepts/advantages)
+   * [Criticisms](concepts/criticisms)
+* [Framework](roadblocks/README.md)
+
